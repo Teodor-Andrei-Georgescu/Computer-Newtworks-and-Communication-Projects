@@ -1,0 +1,174 @@
+Row   Components                                                   Details
+==========================================================================================
+1     The IP address of the source node (R1)                       192.168.100.17
+------------------------------------------------------------------------------------------
+2     The IP address of ultimate destination node (R1)             8.8.8.8
+------------------------------------------------------------------------------------------
+3     The IP addresses of the intermediate destination nodes (R1)  142.104.68.167, 142.104.68.1, 192.168.9.5, 192.168.10.1, 192.168.8.6, 142.104.252.37, 142.104.252.246, 207.23.244.242, 206.12.3.17, 199.212.24.64, 206.81.80.17, 74.125.37.91, 72.14.237.123, 209.85.246.219, 209.85.250.123, 209.85.245.65
+------------------------------------------------------------------------------------------
+4     The correct order of the intermediate destination nodes (R1) 142.104.68.167, 142.104.68.1, 192.168.9.5, 192.168.10.1, 192.168.8.6, 142.104.252.37, 142.104.252.246, 207.23.244.242, 206.12.3.17, 199.212.24.64, 206.81.80.17, 74.125.37.91, 72.14.237.123, 209.85.246.219, 209.85.250.123, 209.85.245.65
+------------------------------------------------------------------------------------------
+5     The values in the protocol field of IP headers (R1)          1: ICMP, 17: UDP
+------------------------------------------------------------------------------------------
+6     The number of fragments created from the original datagram (R1) 0
+      The number of fragments created from datagram 13632             0
+      The number of fragments created from datagram 13633             0
+      The number of fragments created from datagram 13634             0
+      The number of fragments created from datagram 13635             0
+      The number of fragments created from datagram 13636             0
+      The number of fragments created from datagram 13637             0
+      The number of fragments created from datagram 13638             0
+      The number of fragments created from datagram 13639             0
+      The number of fragments created from datagram 13640             0
+      The number of fragments created from datagram 13641             0
+      The number of fragments created from datagram 13642             0
+      The number of fragments created from datagram 13643             0
+      The number of fragments created from datagram 13644             0
+      The number of fragments created from datagram 13645             0
+      The number of fragments created from datagram 13646             0
+      The number of fragments created from datagram 13652             0
+      The number of fragments created from datagram 13661             0
+      The number of fragments created from datagram 13662             0
+      The number of fragments created from datagram 13663             0
+      The number of fragments created from datagram 13664             0
+      The number of fragments created from datagram 13665             0
+      The number of fragments created from datagram 13666             0
+      The number of fragments created from datagram 13667             0
+      The number of fragments created from datagram 13668             0
+      The number of fragments created from datagram 13669             0
+      The number of fragments created from datagram 13670             0
+      The number of fragments created from datagram 13671             0
+      The number of fragments created from datagram 13672             0
+      The number of fragments created from datagram 13673             0
+      The number of fragments created from datagram 13674             0
+      The number of fragments created from datagram 13675             0
+      The number of fragments created from datagram 13676             0
+      The number of fragments created from datagram 13678             0
+      The number of fragments created from datagram 13682             0
+      The number of fragments created from datagram 13700             0
+      The number of fragments created from datagram 13701             0
+      The number of fragments created from datagram 13702             0
+      The number of fragments created from datagram 13703             0
+      The number of fragments created from datagram 13704             0
+      The number of fragments created from datagram 13705             0
+      The number of fragments created from datagram 13706             0
+      The number of fragments created from datagram 13707             0
+      The number of fragments created from datagram 13708             0
+      The number of fragments created from datagram 13709             0
+      The number of fragments created from datagram 13710             0
+      The number of fragments created from datagram 13711             0
+      The number of fragments created from datagram 13712             0
+      The number of fragments created from datagram 13713             0
+      The number of fragments created from datagram 13714             0
+      The number of fragments created from datagram 13720             0
+------------------------------------------------------------------------------------------
+7     The offset of the last fragment (R1)                         0
+      The last fragments offset from datagram  13632               0
+      The last fragments offset from datagram  13633               0
+      The last fragments offset from datagram  13634               0
+      The last fragments offset from datagram  13635               0
+      The last fragments offset from datagram  13636               0
+      The last fragments offset from datagram  13637               0
+      The last fragments offset from datagram  13638               0
+      The last fragments offset from datagram  13639               0
+      The last fragments offset from datagram  13640               0
+      The last fragments offset from datagram  13641               0
+      The last fragments offset from datagram  13642               0
+      The last fragments offset from datagram  13643               0
+      The last fragments offset from datagram  13644               0
+      The last fragments offset from datagram  13645               0
+      The last fragments offset from datagram  13646               0
+      The last fragments offset from datagram  13652               0
+      The last fragments offset from datagram  13661               0
+      The last fragments offset from datagram  13662               0
+      The last fragments offset from datagram  13663               0
+      The last fragments offset from datagram  13664               0
+      The last fragments offset from datagram  13665               0
+      The last fragments offset from datagram  13666               0
+      The last fragments offset from datagram  13667               0
+      The last fragments offset from datagram  13668               0
+      The last fragments offset from datagram  13669               0
+      The last fragments offset from datagram  13670               0
+      The last fragments offset from datagram  13671               0
+      The last fragments offset from datagram  13672               0
+      The last fragments offset from datagram  13673               0
+      The last fragments offset from datagram  13674               0
+      The last fragments offset from datagram  13675               0
+      The last fragments offset from datagram  13676               0
+      The last fragments offset from datagram  13678               0
+      The last fragments offset from datagram  13682               0
+      The last fragments offset from datagram  13700               0
+      The last fragments offset from datagram  13701               0
+      The last fragments offset from datagram  13702               0
+      The last fragments offset from datagram  13703               0
+      The last fragments offset from datagram  13704               0
+      The last fragments offset from datagram  13705               0
+      The last fragments offset from datagram  13706               0
+      The last fragments offset from datagram  13707               0
+      The last fragments offset from datagram  13708               0
+      The last fragments offset from datagram  13709               0
+      The last fragments offset from datagram  13710               0
+      The last fragments offset from datagram  13711               0
+      The last fragments offset from datagram  13712               0
+      The last fragments offset from datagram  13713               0
+      The last fragments offset from datagram  13714               0
+      The last fragments offset from datagram  13720               0
+------------------------------------------------------------------------------------------
+8     The avg RTT to ultimate destination node (R1)                19.648667 ms
+      The avg RTT between 192.168.100.17 and 142.104.68.167 is:   11.214 ms
+      The avg RTT between 192.168.100.17 and 142.104.68.1 is:   15.712667 ms
+      The avg RTT between 192.168.100.17 and 192.168.9.5 is:   15.420667 ms
+      The avg RTT between 192.168.100.17 and 192.168.10.1 is:   16.688667 ms
+      The avg RTT between 192.168.100.17 and 192.168.8.6 is:   17.442667 ms
+      The avg RTT between 192.168.100.17 and 142.104.252.37 is:   11.519333 ms
+      The avg RTT between 192.168.100.17 and 142.104.252.246 is:   13.587667 ms
+      The avg RTT between 192.168.100.17 and 207.23.244.242 is:   14.006333 ms
+      The avg RTT between 192.168.100.17 and 206.12.3.17 is:   16.930667 ms
+      The avg RTT between 192.168.100.17 and 199.212.24.64 is:   18.181 ms
+      The avg RTT between 192.168.100.17 and 206.81.80.17 is:   19.434 ms
+      The avg RTT between 192.168.100.17 and 74.125.37.91 is:   14.242 ms
+      The avg RTT between 192.168.100.17 and 72.14.237.123 is:   13.638 ms
+      The avg RTT between 192.168.100.17 and 209.85.246.219 is:   19.006 ms
+      The avg RTT between 192.168.100.17 and 209.85.250.123 is:   19.514 ms
+      The avg RTT between 192.168.100.17 and 209.85.245.65 is:   20.806 ms
+------------------------------------------------------------------------------------------
+9     The std deviation of RTT to ultimate destination node (R1)   3.319851 ms
+      The s.d between 192.168.100.17 and 142.104.68.167 is: 0.221054 ms
+      The s.d between 192.168.100.17 and 142.104.68.1 is: 0.570675 ms
+      The s.d between 192.168.100.17 and 192.168.9.5 is: 0.209438 ms
+      The s.d between 192.168.100.17 and 192.168.10.1 is: 0.204125 ms
+      The s.d between 192.168.100.17 and 192.168.8.6 is: 0.204533 ms
+      The s.d between 192.168.100.17 and 142.104.252.37 is: 6.200681 ms
+      The s.d between 192.168.100.17 and 142.104.252.246 is: 0.45439 ms
+      The s.d between 192.168.100.17 and 207.23.244.242 is: 0.323037 ms
+      The s.d between 192.168.100.17 and 206.12.3.17 is: 0.214772 ms
+      The s.d between 192.168.100.17 and 199.212.24.64 is: 0.250728 ms
+      The s.d between 192.168.100.17 and 206.81.80.17 is: 0.240753 ms
+      The s.d between 192.168.100.17 and 74.125.37.91 is: 0.0 ms
+      The s.d between 192.168.100.17 and 72.14.237.123 is: 4.067 ms
+      The s.d between 192.168.100.17 and 209.85.246.219 is: 0.0 ms
+      The s.d between 192.168.100.17 and 209.85.250.123 is: 0.0 ms
+      The s.d between 192.168.100.17 and 209.85.245.65 is: 0.0 ms
+------------------------------------------------------------------------------------------
+ttl:  1 -> 3 probes
+ttl:  2 -> 3 probes
+ttl:  3 -> 3 probes
+ttl:  4 -> 3 probes
+ttl:  5 -> 3 probes
+ttl:  6 -> 3 probes
+ttl:  7 -> 3 probes
+ttl:  8 -> 3 probes
+ttl:  9 -> 3 probes
+ttl: 10 -> 3 probes
+ttl: 11 -> 3 probes
+ttl: 12 -> 3 probes
+ttl: 13 -> 3 probes
+ttl: 14 -> 3 probes
+ttl: 15 -> 3 probes
+ttl: 16 -> 3 probes
+ttl: 17 -> 3 probes
+------------------------------------------------------------------------------------------
+11    Right answer to the second question (R2)                     please ignore and read pfd
+------------------------------------------------------------------------------------------
+12    Right answer to the third/or fourth question (R2)            please ignore and read pfd
+==========================================================================================
