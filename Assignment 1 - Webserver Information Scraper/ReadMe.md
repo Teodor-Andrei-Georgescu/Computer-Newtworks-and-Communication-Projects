@@ -1,4 +1,4 @@
-#Webserver Information Scraper
+# Webserver Information Scraper
 
 ## Purpose
 This project, "WebTester," is a tool designed to collect basic information about a provided web server. It provides hands-on experience with socket programming and helps understand HTTP/HTTPS application-layer protocols.
@@ -51,3 +51,6 @@ The program includes basic error handling to notify users of issues like:
 	- The server being unreachable.
 	- The server not supporting the requested protocol.
 	- Invalid input URLs.
+
+## Further Information
+For more detailed information please read the **p1-2024.pdf**
