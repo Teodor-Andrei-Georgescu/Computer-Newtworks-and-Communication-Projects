@@ -131,6 +131,6 @@ Examples outputs can be found in the **analyzed traces/** directory or see below
 ## Important Notes
 ### Limitations
 - The script does not support non-standard `traceroute` implementations.
-	-The script supports traces from both Linux (`UDP`) and Windows (`ICMP`) implementations of `traceroute`.
+	- The script supports traces from both Linux (`UDP`) and Windows (`ICMP`) implementations of `traceroute`.
 - Scipt heavily rely on the structure and integrity of the `.pcap` file.
 - Script only Check IPv4 packets.
