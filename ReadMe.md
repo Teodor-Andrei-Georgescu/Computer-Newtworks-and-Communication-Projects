@@ -5,9 +5,9 @@ This repository contains a series of projects focusing on various aspects of com
 ## Projects
 
 - Assignment 1 – Webserver Information Scraper
-  - A script that retrieves and displays HTTP headers for a given URL.
+  - A script that retrieves and displays basic information about a given URL.
 - Assignment 2 – TCP Packet Analyzer
-  - A Python-based tool that captures and analyzes TCP packets from a local interface.
+  - A Python-based tool that analyzes TCP packets captures.
 - Assignment 3 – Traceroute duplicate
   - A custom traceroute implementation showing intermediate hops and latencies.
 
